@@ -1,0 +1,40 @@
+tag-name {
+    property: value;
+}
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid navy;
+    padding-bottom: 15px;
+}
+
+h1,
+h2 {
+    color: navy;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid gray;
+    padding: 8px;
+    text-align: left;
+}
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    line-height: 1.6;
+}
